@@ -5,3 +5,4 @@ cdk.out
 __pycache__
 .DS_Store
 .cdk-venv
+.venv
