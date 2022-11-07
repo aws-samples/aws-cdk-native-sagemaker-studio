@@ -1,4 +1,3 @@
-## My Project
 # Setting up SageMaker Studio with Jupyter Lab 3 using CDK
 
 Please review the contents of this repository in its entirety to understand how CDK works in CloudFormation Stacks.
@@ -59,9 +58,6 @@ Follow the steps to delete the SageMaker Domain (https://docs.aws.amazon.com/sag
 then run `cdk destroy`
 
 When asked to confirm the deletion of the respective stacks select/enter yes "y"
-
-
-
 
 
 ## Security
