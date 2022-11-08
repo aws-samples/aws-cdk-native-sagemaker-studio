@@ -43,9 +43,9 @@ Please review the contents of this repository in its entirety to understand how 
 
 `aws configure`
 
-`cdk bootstrap —app "python3 -m cdk.app"`
+`cdk bootstrap --app "python3 -m cdk.app"`
 
-`cdk deploy —app "python3 -m cdk.app"`
+`cdk deploy --app "python3 -m cdk.app"`
 
 Review the resources AWS CDK creates in your AWS account and enter yes (y) when prompted to deploy the stack.
 
